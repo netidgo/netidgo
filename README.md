@@ -1,7 +1,7 @@
 # SOLDESK - 김금목
 <img src="https://img.shields.io/badge/aws%20cloud-soldesk-339933?style=for-the-badge&logo=amazonec2">
 
-### [보유 자격]
+### Certificate
 직업능력개발훈련교사(정보기술개발, 정보기술운영관리, 정보보호), 네트워크관리사, 리눅스마스터, CCNA, 해킹보안전문가
 ### Subject
 네트워크, 운영체제, 데이터베이스, 파이썬, AWS, Ansible, Terraform, Docker, CI/CD
